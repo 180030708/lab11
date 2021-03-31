@@ -39,7 +39,7 @@ steps:
   displayName: 'Use Python $(python.version)'
 
 
-- script: python "prac11.py"
+- script: python "pract11.py"
 
 
 
